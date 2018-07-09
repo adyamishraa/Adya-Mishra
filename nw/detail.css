@@ -1,0 +1,32 @@
+
+#div1{
+    background-color: #c9ced6;
+    color: #877479;
+    padding: 36px;
+    font-size: 1.2em;
+}
+#div2{
+    background-color: #929fb5;
+    color: #68001b;
+    padding: 36px;
+    font-size: 1.2em;
+}
+#div3{
+    background-color: #c92455;
+    color: #68001b;
+    padding: 36px;
+    font-size: 1.2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#div4{
+    background-color: #560615;
+    color: #c9ced6;
+    padding:36px;
+    font-size: 1.2em;
+}
+
+.bg{
+    background-color: black;
+}
+
+
